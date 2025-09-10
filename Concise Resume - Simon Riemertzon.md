@@ -45,9 +45,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Programming Languages
 
+  
+
 | Language | Proficiency Level |
 
-|----------|------------------|
+|-------------|--------------------------|
 
 | Swift | Expert |
 
@@ -65,9 +67,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Mobile Development
 
+  
+
 | Skill | Proficiency Level |
 
-|-------|------------------|
+|-------------------------|-------------------|
 
 | iOS/Android development | Expert |
 
@@ -79,9 +83,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Automotive Systems
 
+  
+
 | Technology | Proficiency Level |
 
-|------------|------------------|
+|---------------------|--------------------------|
 
 | OTA systems | Analysis/Documentation |
 
@@ -95,9 +101,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### AI/LLM
 
+  
+
 | Skill | Proficiency Level |
 
-|-------|------------------|
+|-------------------------------------|-------------------|
 
 | Prompt engineering | Proficient |
 
@@ -111,9 +119,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Development Tools
 
+  
+
 | Tool | Proficiency Level |
 
-|------|------------------|
+|------------|-------------------|
 
 | Xcode | Expert |
 
@@ -135,9 +145,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Databases
 
+  
+
 | Technology | Proficiency Level |
 
-|------------|------------------|
+|------------|-------------------|
 
 | SQL | Intermediate |
 
@@ -147,9 +159,11 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 ### Methodologies
 
+  
+
 | Methodology | Proficiency Level |
 
-|-------------|------------------|
+|-------------------------|-------------------|
 
 | OOP | Expert |
 
