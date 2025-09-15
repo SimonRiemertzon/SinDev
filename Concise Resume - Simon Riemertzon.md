@@ -6,187 +6,238 @@ This document was based on my previous CV and then generated using [Augment CLI]
 
 # Simon Riemertzon
 
+  
+
 **Mobile Developer | iOS & Android Specialist**
 
+  
+
 **Location:** Göteborg, Sweden
+
 **Email:** simon.riemertzon@gmail.com
+
 **LinkedIn:** [linkedin.com/in/simon-riemertzon](https://linkedin.com/in/simon-riemertzon)
+
 **GitHub:** [github.com/SimonRiemertzon](https://github.com/SimonRiemertzon)
+
+  
 
 *Please email me about opportunities - we can set up a meeting and exchange contact details from there.*
 
+  
+
 ---
+
+  
 
 ## Professional Summary
+
 Experienced iOS/Android developer with 4+ years at Polestar, specializing in mobile app development, automotive OTA systems, and technical documentation. Proven expertise in SDK creation, complex system analysis, and cross-functional collaboration. Recently completed comprehensive analysis of automotive Over-The-Air update systems, including BSS integration, UDS protocols, and ECU programming workflows. Seeking to leverage technical skills and passion for clean, maintainable code in a growth-oriented development environment.
 
+  
+
 ---
+
+  
 
 ## Technical Skills
 
-<div style="display: flex; gap: 20px;">
+  
 
-<div style="flex: 1;">
+| **Programming Languages** | **Mobile Development** |
 
-### Programming Languages
+|---------------------------|------------------------|
 
-| Language     | Proficiency Level        |
-|--------------|-------------------------|
-| Swift        | Expert                  |
-| Objective-C  | Proficient              |
-| Java         | Proficient              |
-| Kotlin       | Intermediate            |
-| C#           | Intermediate            |
-| C++          | Analysis/Documentation  |
+| **Swift:** Expert | **iOS/Android development:** Expert |
 
-</div>
+| **Objective-C:** Proficient | **SDK creation:** Proficient |
 
-<div style="flex: 1;">
+| **Java:** Proficient | **Automated testing:** Proficient |
 
-### Mobile Development
+| **Kotlin:** Intermediate | |
 
-| Skill                   | Proficiency Level |
-|-------------------------|------------------|
-| iOS/Android development | Expert           |
-| SDK creation            | Proficient       |
-| Automated testing       | Proficient       |
+| **C#:** Intermediate | |
 
-</div>
+| **C++:** Analysis/Documentation | |
 
-</div>
+  
 
-<div style="display: flex; gap: 20px;">
+| **Automotive Systems** | **AI/LLM** |
 
-<div style="flex: 1;">
+|------------------------|------------|
 
-### Automotive Systems
+| **OTA systems:** Analysis/Documentation | **Prompt engineering:** Proficient |
 
-| Technology         | Proficiency Level        |
-|--------------------|-------------------------|
-| OTA systems        | Analysis/Documentation  |
-| UDS/DoIP protocols | Analysis                |
-| BSS integration    | Documentation           |
-| ECU programming    | Conceptual              |
+| **UDS/DoIP protocols:** Analysis | **Code analysis automation:** Proficient |
 
-</div>
+| **BSS integration:** Documentation | **Technical documentation generation:** Proficient |
 
-<div style="flex: 1;">
+| **ECU programming:** Conceptual | **Iterative AI collaboration:** Advanced |
 
-### AI/LLM
+  
 
-| Skill                              | Proficiency Level |
-|-------------------------------------|------------------|
-| Prompt engineering                  | Proficient       |
-| Code analysis automation            | Proficient       |
-| Technical documentation generation  | Proficient       |
-| Iterative AI collaboration          | Advanced         |
+| **Development Tools** | **Databases** |
 
-</div>
+|-----------------------|---------------|
 
-</div>
+| **Xcode:** Expert | **SQL:** Beginner |
 
-<div style="display: flex; gap: 20px;">
+| **Git:** Proficient | **MySQL:** Beginner |
 
-<div style="flex: 1;">
+| **JIRA:** Proficient | |
 
-### Development Tools
+| **Confluence:** Proficient | |
 
-| Tool       | Proficiency Level |
-|------------|------------------|
-| Xcode      | Expert           |
-| Git        | Proficient       |
-| JIRA       | Proficient       |
-| Confluence | Proficient       |
-| REST APIs  | Proficient       |
-| Maven      | Intermediate     |
-| JUnit      | Intermediate     |
-| Mermaid    | Intermediate     |
+| **REST APIs:** Proficient | |
 
-</div>
+| **Maven:** Intermediate | |
 
-<div style="flex: 1;">
+| **JUnit:** Intermediate | |
 
-### Databases
+| **Mermaid:** Intermediate | |
 
-| Technology | Proficiency Level |
-|------------|------------------|
-| SQL        | Beginner         |
-| MySQL      | Beginner         |
-
-</div>
-
-</div>
+  
 
 ### Methodologies
 
-| Methodology             | Proficiency Level |
+  
+
+| Methodology | Proficiency Level |
+
 |-------------------------|------------------|
-| OOP                     | Expert           |
-| TDD                     | Proficient       |
-| Scrum                   | Proficient       |
-| Agile                   | Proficient       |
-| Technical Documentation | Proficient       |
-| System Analysis         | Intermediate     |
+
+| OOP | Expert |
+
+| TDD | Proficient |
+
+| Scrum | Proficient |
+
+| Agile | Proficient |
+
+| Technical Documentation | Proficient |
+
+| System Analysis | Intermediate |
+
+  
 
 ---
+
+  
 
 ## Professional Experience
 
+  
+
 ### APP DEVELOPER & Vehicle Requirements Coordinator
+
+  
 
 **POLESTAR** | Göteborg | 2020 – Present
 
+  
+
 #### OTA (Over-The-Air) System Development | 2024-2025
 
+  
+
 - Conducted comprehensive technical analysis of automotive OTA update system architecture, including BSS (Baseline Software Structure) integration and PSUMS Portal workflows
+
 - Documented and analyzed 5 core OTA processes: Configuration Synchronization, Settings Management, Assignment Synchronization, Download Assignment, and Install Assignment
+
 - Analyzed complex C++ codebase (ConfigSynchronizer, UDS Client, FOTA Master) to create comprehensive technical documentation and developer onboarding materials
+
 - Studied UDS (Unified Diagnostic Services) communication protocols and DoIP (Diagnostics over IP) implementation for ECU programming and diagnostic operations
+
 - Documented existing API endpoint integrations (ZEEKR-OTA-001, ZEEKR-OTA-003, ZEEKR-OTA-004) and system integration flows
+
 - Developed comprehensive Confluence documentation with source code references, flowchart analysis, and system integration guides
+
 - Leveraged AI/LLM tools for iterative technical documentation generation while maintaining critical oversight and validation of all outputs
+
+  
 
 #### Mobile Development Projects
 
+  
+
 - Led iOS development for RPAP (Remote Parking Assist) project, delivering working prototype and SDK foundation used by both Volvo and Polestar
+
 - Developed Vocmo SDK and contributed to Volvo Cars App using Swift and Objective-C
+
 - Established automated testing workflows command line tools and Jenkins to implement automated data-driven testing
+
 - Dove deep into legacy codebase, carfully modernized them and solved long-standing technical issues
+
 - Currently transitioning from Vehicle Requirements Engineer role back to hands-on development
+
+  
 
 ### **SleepCure/Arcio** | Software Developer Consultant | Göteborg | April 2019 - October 2019
 
+  
+
 - Developed digital sleep-coaching iOS app in team of 5, focusing on front-end development
+
 - Got high remarks for my work on a media library UI/UX for sleephealth improvement learning
+
+  
 
 ### **CYBERCOM** | App Developer Consultatnt | Göteborg | February 2018 - August 2018
 
+  
+
 - Developed Microsoft HoloLens application using machine learning for Rubik's cube solving
+
 - Contributed to Volvo Cars' Android-based infotainment system update project
+
 - Worked on Autoliv's Roadhero app, gaining experience in iOS front-end and AWS integration
 
-
+  
+  
+  
 
 ### **Tracy AB** | App Developer | Stockholm | December 2017 - February 2018
 
+  
+
 - Developed iOS app for pet health monitoring using gyroscope/accelerometer data
+
 - Implemented Bluetooth connectivity and REST API integration for cloud data transport
+
 - Redesigned UX for improved data visualization and user experience
 
+  
+
 ---
+
+  
 
 ## Education
 
+  
+
 **Java Enterprise Developer** | YRGO Göteborg | 2020-2022
+
+  
 
 **App Developer** | IT-Högskolan Göteborg | 2016-2017
 
+  
+
 **Mathematics Courses** | Komvux Göteborg | 2019-2020
+
+  
 
 **IT-Media Program** | John Bauergymnasiet | 2006-2009
 
+  
+
 ---
 
+  
+
 ## References
+
+  
 
 Available upon request
