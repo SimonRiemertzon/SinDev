@@ -4,16 +4,16 @@ share: "true"
 # Disclaimer:
 This document was based on my previous CV and then generated using [Augment CLI](https://docs.augmentcode.com/cli/overview).
 
-
 # Simon Riemertzon
+
 **Mobile Developer | iOS & Android Specialist**
 
-**Location:** Göteborg, Sweden  
-**Email:** simon.riemertzon@gmail.com  
-**LinkedIn:** [linkedin.com/in/simon-riemertzon](https://linkedin.com/in/simon-riemertzon)  
+**Location:** Göteborg, Sweden
+**Email:** simon.riemertzon@gmail.com
+**LinkedIn:** [linkedin.com/in/simon-riemertzon](https://linkedin.com/in/simon-riemertzon)
 **GitHub:** [github.com/SimonRiemertzon](https://github.com/SimonRiemertzon)
 
-*Please email me about opportunities you'd like to offer - we can set up a meeting and exchange contact details from there.*
+*Please email me about opportunities - we can set up a meeting and exchange contact details from there.*
 
 ---
 
@@ -23,6 +23,10 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 ---
 
 ## Technical Skills
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
 
 ### Programming Languages
 
@@ -35,6 +39,10 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | C#           | Intermediate            |
 | C++          | Analysis/Documentation  |
 
+</div>
+
+<div style="flex: 1;">
+
 ### Mobile Development
 
 | Skill                   | Proficiency Level |
@@ -42,6 +50,14 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | iOS/Android development | Expert           |
 | SDK creation            | Proficient       |
 | Automated testing       | Proficient       |
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
 
 ### Automotive Systems
 
@@ -52,6 +68,10 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | BSS integration    | Documentation           |
 | ECU programming    | Conceptual              |
 
+</div>
+
+<div style="flex: 1;">
+
 ### AI/LLM
 
 | Skill                              | Proficiency Level |
@@ -60,6 +80,14 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | Code analysis automation            | Proficient       |
 | Technical documentation generation  | Proficient       |
 | Iterative AI collaboration          | Advanced         |
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
 
 ### Development Tools
 
@@ -74,12 +102,20 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | JUnit      | Intermediate     |
 | Mermaid    | Intermediate     |
 
+</div>
+
+<div style="flex: 1;">
+
 ### Databases
 
 | Technology | Proficiency Level |
 |------------|------------------|
-| SQL        | Intermediate     |
-| MySQL      | Intermediate     |
+| SQL        | Beginner         |
+| MySQL      | Beginner         |
+
+</div>
+
+</div>
 
 ### Methodologies
 
@@ -97,49 +133,60 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 ## Professional Experience
 
 ### APP DEVELOPER & Vehicle Requirements Coordinator
+
 **POLESTAR** | Göteborg | 2020 – Present
 
-**OTA (Over-The-Air) System Development** | 2024-2025  
-• Conducted comprehensive technical analysis of automotive OTA update system architecture, including BSS (Baseline Software Structure) integration and PSUMS Portal workflows  
-• Documented and analyzed 5 core OTA processes: Configuration Synchronization, Settings Management, Assignment Synchronization, Download Assignment, and Install Assignment  
-• Analyzed complex C++ codebase (ConfigSynchronizer, UDS Client, FOTA Master) to create comprehensive technical documentation and developer onboarding materials  
-• Studied UDS (Unified Diagnostic Services) communication protocols and DoIP (Diagnostics over IP) implementation for ECU programming and diagnostic operations  
-• Documented existing API endpoint integrations (ZEEKR-OTA-001, ZEEKR-OTA-003, ZEEKR-OTA-004) and system integration flows  
-• Developed comprehensive Confluence documentation with source code references, flowchart analysis, and system integration guides  
-• Leveraged AI/LLM tools for iterative technical documentation generation while maintaining critical oversight and validation of all outputs  
+#### OTA (Over-The-Air) System Development | 2024-2025
 
-**Mobile Development Projects**  
-• Led iOS development for RPAP (Remote Parking Assist) project, delivering working prototype and SDK foundation used by both Volvo and Polestar with zero delays  
-• Developed Vocmo SDK and contributed to Volvo Cars App using Swift and Objective-C  
-• Established automated testing workflows using HIL rigs and implemented data-driven testing  
-• Specialized in legacy codebase modernization and solving long-standing technical issues  
-• Currently transitioning from Vehicle Requirements Engineer role back to hands-on development  
+- Conducted comprehensive technical analysis of automotive OTA update system architecture, including BSS (Baseline Software Structure) integration and PSUMS Portal workflows
+- Documented and analyzed 5 core OTA processes: Configuration Synchronization, Settings Management, Assignment Synchronization, Download Assignment, and Install Assignment
+- Analyzed complex C++ codebase (ConfigSynchronizer, UDS Client, FOTA Master) to create comprehensive technical documentation and developer onboarding materials
+- Studied UDS (Unified Diagnostic Services) communication protocols and DoIP (Diagnostics over IP) implementation for ECU programming and diagnostic operations
+- Documented existing API endpoint integrations (ZEEKR-OTA-001, ZEEKR-OTA-003, ZEEKR-OTA-004) and system integration flows
+- Developed comprehensive Confluence documentation with source code references, flowchart analysis, and system integration guides
+- Leveraged AI/LLM tools for iterative technical documentation generation while maintaining critical oversight and validation of all outputs
 
-### Software Developer Consultant
-**SleepCure/Arcio** | Göteborg | April 2019 - October 2019
+#### Mobile Development Projects
 
-• Developed digital sleep-coaching iOS app in team of 5, focusing on front-end development  
-• Collaborated with designers to optimize UI/UX for sleep health improvement features  
-• Built app based on medical guidelines and sleep science research  
+- Led iOS development for RPAP (Remote Parking Assist) project, delivering working prototype and SDK foundation used by both Volvo and Polestar
+- Developed Vocmo SDK and contributed to Volvo Cars App using Swift and Objective-C
+- Established automated testing workflows command line tools and Jenkins to implement automated data-driven testing
+- Dove deep into legacy codebase, carfully modernized them and solved long-standing technical issues
+- Currently transitioning from Vehicle Requirements Engineer role back to hands-on development
 
-### App Developer
-**CYBERCOM** | Göteborg | February 2018 - August 2018
+### **SleepCure/Arcio** | Software Developer Consultant | Göteborg | April 2019 - October 2019
 
-• Developed Microsoft HoloLens application using machine learning for Rubik's cube solving  
-• Contributed to Volvo Cars' Android-based infotainment system update project  
-• Worked on Autoliv's Roadhero app, gaining experience in iOS front-end and AWS integration  
+- Developed digital sleep-coaching iOS app in team of 5, focusing on front-end development
+- Got high remarks for my work on a media library UI/UX for sleephealth improvement learning
 
-### App Developer
-**Tracy AB** | Stockholm | December 2017 - February 2018
+### **CYBERCOM** | App Developer Consultatnt | Göteborg | February 2018 - August 2018
 
-• Developed iOS app for pet health monitoring using gyroscope/accelerometer data  
-• Implemented Bluetooth connectivity and REST API integration for cloud data transport  
-• Redesigned UX for improved data visualization and user experience  
+- Developed Microsoft HoloLens application using machine learning for Rubik's cube solving
+- Contributed to Volvo Cars' Android-based infotainment system update project
+- Worked on Autoliv's Roadhero app, gaining experience in iOS front-end and AWS integration
+
+
+
+### **Tracy AB** | App Developer | Stockholm | December 2017 - February 2018
+
+- Developed iOS app for pet health monitoring using gyroscope/accelerometer data
+- Implemented Bluetooth connectivity and REST API integration for cloud data transport
+- Redesigned UX for improved data visualization and user experience
 
 ---
 
 ## Education
 
-**Java Enterprise Developer** | YRGO Göteborg | 2020-2022  
-**App Developer** | IT-Högskolan Göteborg | 2016-2017  
-**Mathematics Courses** | Komvux Göteborg
+**Java Enterprise Developer** | YRGO Göteborg | 2020-2022
+
+**App Developer** | IT-Högskolan Göteborg | 2016-2017
+
+**Mathematics Courses** | Komvux Göteborg | 2019-2020
+
+**IT-Media Program** | John Bauergymnasiet | 2006-2009
+
+---
+
+## References
+
+Available upon request
