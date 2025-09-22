@@ -31,17 +31,16 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | Language/Platform         | Proficiency Level         |
 |---------------------------|--------------------------|
 | **Swift**                 | Expert                   |
+| **iOS/Android development** | Expert                 |
 | **Objective-C**           | Proficient               |
 | **Java**                  | Proficient               |
+| **SDK creation**          | Proficient               |
+| **REST APIs**             | Proficient               |
+| **Automated testing**     | Intermediate             |
 | **Kotlin**                | Intermediate             |
 | **C#**                    | Intermediate             |
-| **C++**                   | Analysis/Documentation   |
 | **Gherkin**               | Intermediate             |
-| **iOS/Android development** | Expert                 |
-| **SDK creation**          | Proficient               |
-| **Automated testing**     | Intermediate             |
-| **REST APIs**             | Proficient             |
-
+| **C++**                   | Analysis/Documentation   |
 
 ### Automotive Systems
 
@@ -57,17 +56,17 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | Tool/Skill                                 | Proficiency Level       |
 |---------------------------------------------|------------------------|
 | **Xcode**                                  | Expert                 |
+| **Iterative AI collaboration**              | Advanced               |
 | **Git**                                    | Proficient             |
 | **JIRA**                                   | Proficient             |
 | **Confluence**                             | Proficient             |
-| **Maven**                                  | Intermediate           |
-| **JUnit**                                  | Intermediate           |
-| **Mermaid**                                | Intermediate           |
 | **Gemini CLI / Augment CLI / Copilot / ChatGPT / Claude** | Proficient |
 | **Prompt engineering**                     | Proficient             |
 | **Code analysis automation**               | Proficient             |
 | **Technical documentation generation**     | Proficient             |
-| **Iterative AI collaboration**             | Advanced               |
+| **Maven**                                  | Intermediate           |
+| **JUnit**                                  | Intermediate           |
+| **Mermaid**                                | Intermediate           |
 
 ### Databases
 
@@ -82,10 +81,10 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 |----------------------------|------------------------|
 | **OOP**                    | Expert                 |
 | **TDD**                    | Proficient             |
-| **BDD**                    | Intermediate           |
 | **Scrum**                  | Proficient             |
 | **Agile**                  | Proficient             |
 | **Technical Documentation**| Proficient             |
+| **BDD**                    | Intermediate           |
 | **System Analysis**        | Intermediate           |
 
 ---
