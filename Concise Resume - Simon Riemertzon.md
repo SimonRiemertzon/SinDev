@@ -40,6 +40,8 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | **iOS/Android development** | Expert                 |
 | **SDK creation**          | Proficient               |
 | **Automated testing**     | Intermediate             |
+| **REST APIs**             | Proficient             |
+
 
 ### Automotive Systems
 
@@ -58,7 +60,6 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 | **Git**                                    | Proficient             |
 | **JIRA**                                   | Proficient             |
 | **Confluence**                             | Proficient             |
-| **REST APIs**                              | Proficient             |
 | **Maven**                                  | Intermediate           |
 | **JUnit**                                  | Intermediate           |
 | **Mermaid**                                | Intermediate           |
