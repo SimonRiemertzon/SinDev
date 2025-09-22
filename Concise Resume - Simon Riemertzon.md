@@ -2,7 +2,10 @@
 share: "true"
 ---
 # Disclaimer:
+
 This document was based on my previous CV and then generated using [Augment CLI](https://docs.augmentcode.com/cli/overview).
+
+  
 
 # Simon Riemertzon
 
