@@ -44,79 +44,115 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
   
 
-| **Programming Languages** | **Mobile Development** |
+### Programming Languages and Platforms
 
-|---------------------------|------------------------|
+| Language/Platform | Proficiency Level |
 
-| **Swift:** Expert | **iOS/Android development:** Expert |
+|-------------------|------------------|
 
-| **Objective-C:** Proficient | **SDK creation:** Proficient |
+| **Swift** | Expert |
 
-| **Java:** Proficient | **Automated testing:** Proficient |
+| **Objective-C** | Proficient |
 
-| **Kotlin:** Intermediate | |
+| **Java** | Proficient |
 
-| **C#:** Intermediate | |
+| **Kotlin** | Intermediate |
 
-| **C++:** Analysis/Documentation | |
+| **C#** | Intermediate |
 
-  
+| **C++** | Analysis/Documentation |
 
-| **Automotive Systems** | **AI/LLM** |
+| **Gherkin** | Intermediate |
 
-|------------------------|------------|
+| **iOS/Android development** | Expert |
 
-| **OTA systems:** Analysis/Documentation | **Prompt engineering:** Proficient |
+| **SDK creation** | Proficient |
 
-| **UDS/DoIP protocols:** Analysis | **Code analysis automation:** Proficient |
-
-| **BSS integration:** Documentation | **Technical documentation generation:** Proficient |
-
-| **ECU programming:** Conceptual | **Iterative AI collaboration:** Advanced |
+| **Automated testing** | Intermediate |
 
   
 
-| **Development Tools** | **Databases** |
+### Automotive Systems
 
-|-----------------------|---------------|
+| Technology | Proficiency Level |
 
-| **Xcode:** Expert | **SQL:** Beginner |
+|------------|------------------|
 
-| **Git:** Proficient | **MySQL:** Beginner |
+| **OTA systems** | Analysis/Documentation |
 
-| **JIRA:** Proficient | |
+| **UDS/DoIP protocols** | Analysis |
 
-| **Confluence:** Proficient | |
+| **BSS integration** | Documentation |
 
-| **REST APIs:** Proficient | |
+| **ECU programming** | Conceptual |
 
-| **Maven:** Intermediate | |
+  
 
-| **JUnit:** Intermediate | |
+### Development Tools & AI
 
-| **Mermaid:** Intermediate | |
+| Tool/Skill | Proficiency Level |
+
+|------------|------------------|
+
+| **Xcode** | Expert |
+
+| **Git** | Proficient |
+
+| **JIRA** | Proficient |
+
+| **Confluence** | Proficient |
+
+| **REST APIs** | Proficient |
+
+| **Maven** | Intermediate |
+
+| **JUnit** | Intermediate |
+
+| **Mermaid** | Intermediate |
+
+| **Gemini CLI / Augment CLI / Copilot / ChatGPT / Claude** | Proficient |
+
+| **Prompt engineering** | Proficient |
+
+| **Code analysis automation** | Proficient |
+
+| **Technical documentation generation** | Proficient |
+
+| **Iterative AI collaboration** | Advanced |
+
+  
+
+### Databases
+
+| Technology | Proficiency Level |
+
+|------------|------------------|
+
+| **SQL** | Beginner |
+
+| **MySQL** | Beginner |
 
   
 
 ### Methodologies
 
-  
-
 | Methodology | Proficiency Level |
 
-|-------------------------|------------------|
+|-------------|------------------|
 
-| OOP | Expert |
+| **OOP** | Expert |
 
-| TDD | Proficient |
+| **TDD** | Proficient |
 
-| Scrum | Proficient |
+| **BDD** | Intermediate |
 
-| Agile | Proficient |
+| **Scrum** | Proficient |
 
-| Technical Documentation | Proficient |
+| **Agile** | Proficient |
 
-| System Analysis | Intermediate |
+| **Technical Documentation** | Proficient |
+
+| **System Analysis** | Intermediate |
 
   
 
@@ -128,15 +164,15 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
   
 
-### APP DEVELOPER & Vehicle Requirements Coordinator
+### **Current Employment: Polestar** | 2022-Present
 
   
 
-**POLESTAR** | Göteborg | 2020 – Present
+#### Internal Projects
 
   
 
-#### OTA (Over-The-Air) System Development | 2024-2025
+##### OTA (Over-The-Air) System Development | 2025-Present
 
   
 
@@ -156,7 +192,23 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
   
 
-#### Mobile Development Projects
+##### Vehicle Requirements Coordinator
+
+  
+
+- Coordinated cross-functional vehicle functions and specifications across multiple teams
+
+- Managed requirements engineering processes for automotive systems integration
+
+- Collaborated with engineering teams to ensure alignment between vehicle specifications and implementation
+
+- Gained experience in automotive industry standards and regulatory compliance requirements
+
+- Developed understanding of complex vehicle system interdependencies and integration challenges
+
+  
+
+##### Mobile Development Projects | 2022-2024
 
   
 
@@ -182,7 +234,7 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
   
 
-### **CYBERCOM** | App Developer Consultatnt | Göteborg | February 2018 - August 2018
+### **Cybercom** | App Developer Consultant | Göteborg | February 2018 - August 2018
 
   
 
@@ -192,15 +244,7 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
 - Worked on Autoliv's Roadhero app, gaining experience in iOS front-end and AWS integration
 
-  
-  
-  
-
-### **Tracy AB** | App Developer | Stockholm | December 2017 - February 2018
-
-  
-
-- Developed iOS app for pet health monitoring using gyroscope/accelerometer data
+- Worked with Tracy AB to Develop an iOS app for pet health monitoring using gyroscope/accelerometer data
 
 - Implemented Bluetooth connectivity and REST API integration for cloud data transport
 
@@ -224,7 +268,7 @@ Experienced iOS/Android developer with 4+ years at Polestar, specializing in mob
 
   
 
-**Mathematics Courses** | Komvux Göteborg | 2019-2020
+**Mathematics Courses** | Komvux Göteborg | 2015-2016
 
   
 
